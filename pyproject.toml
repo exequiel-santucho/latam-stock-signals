@@ -1,0 +1,26 @@
+[project]
+name = "latam-stock-signals"
+version = "0.1.0"
+description = "End-to-end algo-trading system for Latin American stocks: data, features, ML models, simulation and daily automation"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "gdown>=6.4.2",
+    "html5lib>=1.1",
+    "joblib>=1.6.0",
+    "jupyter>=1.1.1",
+    "lxml>=6.1.3",
+    "matplotlib>=3.11.2",
+    "nbconvert>=7.17.2",
+    "pandas>=3.0.6",
+    "pyarrow>=26.0.0",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "ta-lib>=0.8.2",
+    "tabulate>=0.10.0",
+    "tqdm>=4.70.1",
+    "xgboost>=3.4.1",
+    "yfinance>=1.7.0",
+]

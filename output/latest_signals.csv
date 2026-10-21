@@ -1,0 +1,6 @@
+Date,Ticker,Market,Sector,Close,Close_usd,pred_xgb,market_regime
+2026-10-21,FUNO11.MX,MX,Real Estate,32.96,1.7629533,0.60798776,bear
+2026-10-21,KOFUBL.MX,MX,Consumer Staples,220.2,11.777984,0.60643333,bear
+2026-10-21,CBAV3.SA,BR,Materials,11.22,2.233458,0.6061987,bull
+2026-10-21,VESTA.MX,MX,Real Estate,67.55,3.6130917,0.5911551,bear
+2026-10-21,FIBRAMQ12.MX,MX,Real Estate,46.03,2.462037,0.590458,bear

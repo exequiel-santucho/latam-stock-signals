@@ -1,0 +1,9 @@
+{
+  "prediction": "pred_xgb",
+  "k": 5,
+  "threshold": 0.5,
+  "stop_loss": 0.1,
+  "take_profit": null,
+  "size_by_prob": true,
+  "regime_filter": false
+}
