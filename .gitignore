@@ -19,3 +19,4 @@ output/*.log
 # local notes and notebook sources
 PLAN.md
 notebooks/*.py
+POST_LINKEDIN.md
